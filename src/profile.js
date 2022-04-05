@@ -75,35 +75,35 @@ const projects = [
   {
     // Add image in './styles/images.css' in #project1
     id: "project1",
-    name: "Project 1",
+    name: "Simple Website",
     skills: ["HTML, CSS, JS"],
     url: "https://github.com/kaustubhai",
   },
   {
     // Add image in './styles/images.css' in #project2
     id: "project2",
-    name: "Project 2",
+    name: "Insert Catch Game",
     skills: ["HTML, CSS, JS"],
     url: "https://github.com/kaustubhai",
   },
   {
     // Add image in './styles/images.css' in #project3
     id: "project3",
-    name: "Project 3",
+    name: "Pokedex",
     skills: ["HTML, CSS, JS"],
     url: "https://github.com/kaustubhai",
   },
   {
     // Add image in './styles/images.css' in #project4
     id: "project4",
-    name: "Project 4",
+    name: "Movie App",
     skills: ["HTML, CSS, JS"],
     url: "https://github.com/kaustubhai",
   },
   {
     // Add image in './styles/images.css' in #project5
     id: "project5",
-    name: "Project 5",
+    name: "BIA school Website",
     skills: ["HTML, CSS, JS"],
     url: "https://github.com/kaustubhai",
   },
@@ -111,6 +111,27 @@ const projects = [
     // Add image in './styles/images.css' in #project6
     id: "project6",
     name: "Project 6",
+    skills: ["HTML, CSS, JS"],
+    url: "https://github.com/kaustubhai",
+  },
+  {
+    // Add image in './styles/images.css' in #project4
+    id: "project7",
+    name: "Todo List",
+    skills: ["HTML, CSS, JS"],
+    url: "https://github.com/kaustubhai",
+  },
+  {
+    // Add image in './styles/images.css' in #project5
+    id: "project8",
+    name: "Mobile Page",
+    skills: ["HTML, CSS, JS"],
+    url: "https://github.com/kaustubhai",
+  },
+  {
+    // Add image in './styles/images.css' in #project6
+    id: "project9",
+    name: "Password Genertor",
     skills: ["HTML, CSS, JS"],
     url: "https://github.com/kaustubhai",
   },
