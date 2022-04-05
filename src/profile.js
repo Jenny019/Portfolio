@@ -42,6 +42,11 @@ const skillsBar = [
     faClass: "fab fa-js",
   },
   {
+    name: "React",
+    // svg: '',
+    faClass: "fab fa-react",
+  },
+  {
     name: "SASS",
     // svg: '',
     faClass: "fab fa-sass",
@@ -52,29 +57,14 @@ const skillsBar = [
     faClass: "fab fa-node",
   },
   {
-    name: "Python",
-    // svg: '',
-    faClass: "fab fa-python",
-  },
-  {
     name: "Java",
     // svg: '',
     faClass: "fab fa-java",
   },
   {
-    name: "PHP",
-    // svg: '',
-    faClass: "fab fa-php",
-  },
-  {
     name: "Database",
     // svg: '',
     faClass: "fas fa-database",
-  },
-  {
-    name: "AWS",
-    // svg: '',
-    faClass: "fab fa-aws",
   },
 ];
 // Edit your projects, its name, your skills used to make it, and the url.
